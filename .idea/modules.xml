@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MyFAB.iml" filepath="$PROJECT_DIR$/MyFAB.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_myfab/lib_myfab.iml" filepath="$PROJECT_DIR$/lib_myfab/lib_myfab.iml" />
     </modules>
   </component>
 </project>
